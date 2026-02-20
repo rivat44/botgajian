@@ -1,14 +1,14 @@
 {
-  "name": "bot-gajian",
+  "name": "botgajian",
   "version": "1.0.0",
-  "type": "module",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "lowdb": "^6.0.1",
+    "node-telegram-bot-api": "^0.61.0",
     "node-cron": "^3.0.3",
-    "node-telegram-bot-api": "^0.64.0"
+    "axios": "^1.6.0"
   }
 }

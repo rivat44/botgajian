@@ -1,5 +1,0 @@
-[variables]
-NODE_VERSION = "18"
-
-[start]
-cmd = "npm start"
